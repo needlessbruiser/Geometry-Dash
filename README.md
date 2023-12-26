@@ -1,6 +1,6 @@
 # Geometry Dash
 
-This app provides a webview of [Geometry Dash](https://www.thegeometrydashapk.com/en/geometry-dash-android/).
+This app provides a webview of [Geometry Dash](https://www.thegeometrydashapk.com/).
 
 ## Installation
 
@@ -17,13 +17,13 @@ Just open the app to view the website content.
 
 ## Support
 
-For support, please visit [Geometry Dash](https://www.thegeometrydashapk.com/en/geometry-dash-android/).
+For support, please visit [Geometry Dash](https://www.thegeometrydashapk.com/).
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## More Information
-- Webview URL: [Geometry Dash](https://www.thegeometrydashapk.com/en/geometry-dash-android/).
+- Webview URL: [Geometry Dash](https://www.thegeometrydashapk.com/).
 
 © 2023 Geometry Dash
